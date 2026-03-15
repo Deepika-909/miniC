@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main() {
+    int a;
+    int b;
+    a = 5;
+    b = a + 10;
+    return 0;
+}
