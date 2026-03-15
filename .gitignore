@@ -2,5 +2,10 @@
 y.tab.c
 y.output
 y.tab.h
-lex.yy.c
 a.out
+
+*.exe
+*.o
+lex.yy.c
+parser.tab.c
+parser.tab.h
